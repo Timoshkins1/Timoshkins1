@@ -34,4 +34,4 @@
 
 # Contacts 📫
 
-- [Telegramm](https://t.me/timoshk1ns)
+- [Telegram](https://t.me/timoshk1ns)
