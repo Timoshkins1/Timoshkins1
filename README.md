@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=Blackstarf">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Blackstarf?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<!--
-**Timoshkins1/Timoshkins1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages and Tools 🛠️
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+---
+# GitHub Stats 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Blackstarf&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackstarf&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+# Contacts 📫
+
+- [GitHub](https://github.com/Blackstarf)
