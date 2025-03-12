@@ -1,6 +1,6 @@
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=Blackstarf">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Blackstarf?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Timoshkins1">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Timoshkins1?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # Languages and Tools 🛠️
